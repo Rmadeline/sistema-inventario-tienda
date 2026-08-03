@@ -1,3 +1,4 @@
+# Solución Propuesta por el equipo
 # Solución Tecnológica del Inventario.
 
 ## Concepto
