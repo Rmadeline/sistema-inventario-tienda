@@ -1,4 +1,5 @@
 # Solución Propuesta por el equipo
+# Solución Tecnológica del Inventario.
 
 ## Concepto
 Diseño conceptual de un sistema digital de gestión de inventario para tiendas de barrio, accesible desde dispositivos móviles y de escritorio.
