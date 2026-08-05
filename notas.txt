@@ -1,0 +1,31 @@
+=====================================================
+    SISTEMA DE INVENTARIO PARA TIENDAS DE BARRIO
+         NOTAS DIVERSAS Y APUNTES DEL PROYECTO
+=====================================================
+
+1. INFORMACION GENERAL:
+-----------------------------------------------------
+- Estudiante: Madeline Ramírez 
+- Asignatura: Proyecto Integrador
+- Repositorio: sistema-inventario-tienda
+- Formato: Documentación conceptual sin código fuente
+
+2. NOTAS TÉCNICAS Y RECOMENDACIONES:
+-----------------------------------------------------
+- El sistema debe priorizar la simplicidad de la interfaz para usuarios no técnicos (tenderos).
+- Considerar rendimiento offline en caso de fallas de conectividad a internet en el local.
+- Las alertas de stock mínimo deben configurarse según la rotación de cada producto.
+
+3. CONVENCIONES PARA CONTROL DE VERSIONES (GIT):
+-----------------------------------------------------
+- Usar nombres de ramas descriptivos (ej. funcion/colaboracion).
+- Todos los cambios de colaboradores deben integrarse obligatoriamente mediante Pull Request.
+- Mantener la rama 'principal' siempre estable y documentada.
+
+4. RECORDATORIOS DE ENTREGA:
+-----------------------------------------------------
+Definición conceptual del problema y solución.
+Documentación estructurada en archivos .md.
+Estrategia de ramas y Pull Requests ejecutada.
+Preparación del pitch individual (máximo 5 minutos).
+Generación de informe final en PDF.
